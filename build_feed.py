@@ -11,7 +11,7 @@ from email.utils import format_datetime
 from xml.sax.saxutils import escape
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-AUDIO_BASE = "https://yotam-levy.github.io/haparash-audio"
+AUDIO_BASE = "https://yotam-levy.github.io/Haparash-audio"
 FEED_URL = "https://podcast.yotamlevy.com/haparash/feed.xml"
 SITE_URL = "https://podcast.yotamlevy.com/haparash"
 
