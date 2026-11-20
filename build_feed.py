@@ -18,7 +18,7 @@ SITE_URL = "https://podcast.yotamlevy.com/haparash"
 SHOW = {
     "title": "הפרש",
     "author": "יותם לוי",
-    "email": os.environ.get("FEED_EMAIL", ""),
+    "email": "yl0504144536@gmail.com",
     "description": "יונתן רז רואה דרך אנשים. בגיל 30 הקליניקה שלו קורסת, החובות נערמים, והמשפחה מתרחקת – ואז מגיע פוליטיקאי שמזהה בו את מה שהוא צריך: הפרש שלו. דרמת אודיו ישראלית על כוח, חובות, והמחיר של לראות יותר מכולם.",
     "image": f"{AUDIO_BASE}/cover.jpg",
     "language": "he",
