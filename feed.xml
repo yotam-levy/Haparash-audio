@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>הפרש</title>
+    <link>https://podcast.yotamlevy.com/haparash</link>
+    <atom:link href="https://podcast.yotamlevy.com/haparash/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>he</language>
+    <description><![CDATA[יונתן רז רואה דרך אנשים. בגיל 30 הקליניקה שלו קורסת, החובות נערמים, והמשפחה מתרחקת – ואז מגיע פוליטיקאי שמזהה בו את מה שהוא צריך: הפרש שלו. דרמת אודיו ישראלית על כוח, חובות, והמחיר של לראות יותר מכולם.]]></description>
+    <itunes:summary><![CDATA[יונתן רז רואה דרך אנשים. בגיל 30 הקליניקה שלו קורסת, החובות נערמים, והמשפחה מתרחקת – ואז מגיע פוליטיקאי שמזהה בו את מה שהוא צריך: הפרש שלו. דרמת אודיו ישראלית על כוח, חובות, והמחיר של לראות יותר מכולם.]]></itunes:summary>
+    <itunes:author>יותם לוי</itunes:author>
+    <itunes:image href="https://yotam-levy.github.io/haparash-audio/cover.jpg"/>
+    <image><url>https://yotam-levy.github.io/haparash-audio/cover.jpg</url><title>הפרש</title><link>https://podcast.yotamlevy.com/haparash</link></image>
+    <itunes:category text="Fiction"><itunes:category text="Drama"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <item>
+      <title>פרק 9: חדר המצב</title>
+      <description><![CDATA[שלוש לפנות בוקר, ובחדר של אורי שלושה אנשים יודעים סוד שאף אחד בעולם לא יודע: לאיראן יש פצצה, ולישראל נשארה שנה. בחדר המצב כולם מסתכלים על הטילים, ורק יונתן מסתכל על האיש שמחזיק אותם. בפעם הראשונה הוא בונה תיקייה על מישהו אחר, ובשולחן המטבח שלה הוא מקבל את המפתח. אורי מסכים, בתנאי אחד: אם זה נכשל, יונתן נסע לבד. ואז, שוב בשלוש לפנות בוקר, הצעדים במסדרון נעצרים ליד הדלת שלו.]]></description>
+      <itunes:summary><![CDATA[שלוש לפנות בוקר, ובחדר של אורי שלושה אנשים יודעים סוד שאף אחד בעולם לא יודע: לאיראן יש פצצה, ולישראל נשארה שנה. בחדר המצב כולם מסתכלים על הטילים, ורק יונתן מסתכל על האיש שמחזיק אותם. בפעם הראשונה הוא בונה תיקייה על מישהו אחר, ובשולחן המטבח שלה הוא מקבל את המפתח. אורי מסכים, בתנאי אחד: אם זה נכשל, יונתן נסע לבד. ואז, שוב בשלוש לפנות בוקר, הצעדים במסדרון נעצרים ליד הדלת שלו.]]></itunes:summary>
+      <guid isPermaLink="false">haparash-ep09</guid>
+      <pubDate>Fri, 20 Nov 2026 05:35:00 +0000</pubDate>
+      <enclosure url="https://yotam-levy.github.io/haparash-audio/episodes/haparash-ep09.mp3" length="23337372" type="audio/mpeg"/>
+      <itunes:duration>00:16:12</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>פרק 8: כתב היד</title>
+      <description><![CDATA[בתחתית הדף, בכתב יד עקום, שורה אחת הופכת הכול: המעטפה לא הייתה מאורי. שנתיים יונתן פחד מאדם שלא ידע כלום, ועכשיו הוא יודע מה אורי עשה לו, ואורי לא יודע שהוא יודע. בלילה אחד במטבח ביישוב הוא שומע את כל האמת, ובערב אחד בבית שלה הוא פותח מנעול בפעם הראשונה. ואז, בשלוש לפנות בוקר, הדלת בין החדרים נסגרת.]]></description>
+      <itunes:summary><![CDATA[בתחתית הדף, בכתב יד עקום, שורה אחת הופכת הכול: המעטפה לא הייתה מאורי. שנתיים יונתן פחד מאדם שלא ידע כלום, ועכשיו הוא יודע מה אורי עשה לו, ואורי לא יודע שהוא יודע. בלילה אחד במטבח ביישוב הוא שומע את כל האמת, ובערב אחד בבית שלה הוא פותח מנעול בפעם הראשונה. ואז, בשלוש לפנות בוקר, הדלת בין החדרים נסגרת.]]></itunes:summary>
+      <guid isPermaLink="false">986e77c3-d29f-4909-8cdb-b17671a4ff63</guid>
+      <pubDate>Thu, 19 Nov 2026 10:00:14 +0000</pubDate>
+      <enclosure url="https://yotam-levy.github.io/haparash-audio/episodes/haparash-ep08.mp3" length="18131273" type="audio/mpeg"/>
+      <itunes:duration>00:12:35</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>פרק 7: הסגן</title>
+      <description><![CDATA[המעטפה כמעט נשרפת, ואבא של יונתן מכבה אותה באצבעות. 2015: אורי נבחר לראשות הממשלה, ויונתן, שבטוח שאורי יודע את הסוד שלו, אומר לו "כן" בפעם הראשונה. איש שאף אחד לא שמע עליו נשבע אמונים בכנסת כסגן ראש הממשלה, ואשתו מגלה בחדשות אצל מי הוא עובד. ואז אורי אומר משפט אחד: "אין דבר שקורה סביבי שאני לא יודע עליו." באותו לילה, יונתן פותח את המעטפה.]]></description>
+      <itunes:summary><![CDATA[המעטפה כמעט נשרפת, ואבא של יונתן מכבה אותה באצבעות. 2015: אורי נבחר לראשות הממשלה, ויונתן, שבטוח שאורי יודע את הסוד שלו, אומר לו "כן" בפעם הראשונה. איש שאף אחד לא שמע עליו נשבע אמונים בכנסת כסגן ראש הממשלה, ואשתו מגלה בחדשות אצל מי הוא עובד. ואז אורי אומר משפט אחד: "אין דבר שקורה סביבי שאני לא יודע עליו." באותו לילה, יונתן פותח את המעטפה.]]></itunes:summary>
+      <guid isPermaLink="false">8f138224-a999-499e-ba98-b414b8f83ae9</guid>
+      <pubDate>Thu, 19 Nov 2026 07:21:33 +0000</pubDate>
+      <enclosure url="https://yotam-levy.github.io/haparash-audio/episodes/haparash-ep07.mp3" length="18471700" type="audio/mpeg"/>
+      <itunes:duration>00:12:49</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>פרק 6: המעטפה</title>
+      <description><![CDATA[יונתן חוזר הביתה באמצע הלילה. הקלסר במגירה, ועליו מעטפה סגורה שהוא לא השאיר. הוא בטוח שהיא מאורי, ולא פותח אותה. שנתיים של מלחמה שקטה לצד האיש שהוא הכי מפחד ממנו, עם הפחד שעובד בשבילו. ואז אורי מבקש ממנו לקרוא אדם אחד, ויונתן רואה בו אשמה שהוא לא מבין. בלילה, בחצר של ההורים, הוא מדליק גפרור.]]></description>
+      <itunes:summary><![CDATA[יונתן חוזר הביתה באמצע הלילה. הקלסר במגירה, ועליו מעטפה סגורה שהוא לא השאיר. הוא בטוח שהיא מאורי, ולא פותח אותה. שנתיים של מלחמה שקטה לצד האיש שהוא הכי מפחד ממנו, עם הפחד שעובד בשבילו. ואז אורי מבקש ממנו לקרוא אדם אחד, ויונתן רואה בו אשמה שהוא לא מבין. בלילה, בחצר של ההורים, הוא מדליק גפרור.]]></itunes:summary>
+      <guid isPermaLink="false">15ebd693-5153-457c-b9f5-aa0d5a62b1a5</guid>
+      <pubDate>Thu, 19 Nov 2026 04:39:29 +0000</pubDate>
+      <enclosure url="https://yotam-levy.github.io/haparash-audio/episodes/haparash-ep06.mp3" length="16894949" type="audio/mpeg"/>
+      <itunes:duration>00:11:44</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>פרק 5: הקלסר האפור</title>
+      <description><![CDATA[קלסר ישן מהקליניקה, עט אדום, ושבעה שמות שלא הגיעו במקרה. יונתן מבין שהנפילה שלו לא הייתה אשמתו, ושהאיש שהציל אותו הוא זה שהטביע אותו. הוא בוחר לשתוק, לחכות ולאסוף. אבל בליל הבחירות של 2013 הוא אומר לאורי "לא" בפעם הראשונה. ובשלוש לפנות בוקר, הבת שלו מתקשרת.]]></description>
+      <itunes:summary><![CDATA[קלסר ישן מהקליניקה, עט אדום, ושבעה שמות שלא הגיעו במקרה. יונתן מבין שהנפילה שלו לא הייתה אשמתו, ושהאיש שהציל אותו הוא זה שהטביע אותו. הוא בוחר לשתוק, לחכות ולאסוף. אבל בליל הבחירות של 2013 הוא אומר לאורי "לא" בפעם הראשונה. ובשלוש לפנות בוקר, הבת שלו מתקשרת.]]></itunes:summary>
+      <guid isPermaLink="false">a425db21-b5ea-4350-b598-9fa98b482163</guid>
+      <pubDate>Wed, 18 Nov 2026 18:28:10 +0000</pubDate>
+      <enclosure url="https://yotam-levy.github.io/haparash-audio/episodes/haparash-ep05.mp3" length="18435965" type="audio/mpeg"/>
+      <itunes:duration>00:12:48</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>פרק 4: איש הצללים</title>
+      <description><![CDATA[תיקייה עבה, תמונת מחזור עם עיגול אדום, ושאלה אחת שיונתן מפחד לשאול. ארבע שנים לצד אורי מלמדות אותו לדבר בלי "אולי", לקרוא את הפחד של אחרים ולהשתמש בו. הוא הופך לאיש הצללים של השר. ואז, באחת וחצי בלילה, נריה מתקשר להזהיר אותו.]]></description>
+      <itunes:summary><![CDATA[תיקייה עבה, תמונת מחזור עם עיגול אדום, ושאלה אחת שיונתן מפחד לשאול. ארבע שנים לצד אורי מלמדות אותו לדבר בלי "אולי", לקרוא את הפחד של אחרים ולהשתמש בו. הוא הופך לאיש הצללים של השר. ואז, באחת וחצי בלילה, נריה מתקשר להזהיר אותו.]]></itunes:summary>
+      <guid isPermaLink="false">f036ccc3-4991-40de-a357-943333a6a6e9</guid>
+      <pubDate>Wed, 18 Nov 2026 13:25:59 +0000</pubDate>
+      <enclosure url="https://yotam-levy.github.io/haparash-audio/episodes/haparash-ep04.mp3" length="23922933" type="audio/mpeg"/>
+      <itunes:duration>00:16:37</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>פרק 3: הפרש</title>
+      <description><![CDATA[ערב התרמה במלון, 2006. יונתן חושב שהוא בא בשביל נריה, ומגלה שכל הערב נבנה בשבילו. אורי, פוליטיקאי שיודע עליו הכול, מציע לו עסקה. ועל השולחן במשרד שלו מחכה תיקייה חומה.]]></description>
+      <itunes:summary><![CDATA[ערב התרמה במלון, 2006. יונתן חושב שהוא בא בשביל נריה, ומגלה שכל הערב נבנה בשבילו. אורי, פוליטיקאי שיודע עליו הכול, מציע לו עסקה. ועל השולחן במשרד שלו מחכה תיקייה חומה.]]></itunes:summary>
+      <guid isPermaLink="false">6b7b06a3-83a2-419c-8864-ba8bcb86ec14</guid>
+      <pubDate>Wed, 18 Nov 2026 08:31:54 +0000</pubDate>
+      <enclosure url="https://yotam-levy.github.io/haparash-audio/episodes/haparash-ep03.mp3" length="18664797" type="audio/mpeg"/>
+      <itunes:duration>00:12:57</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>פרק 2: הקליניקה</title>
+      <description><![CDATA[יונתן פותח קליניקה ומאמין שהיכולת שלו תעזור לאנשים. אבל המטופלים לא משלמים, הכתבה בעיתון מרחיקה את מי שכן, והחובות סוגרים עליו. ואז נריה מתקשר: "אתה חייב לבוא."]]></description>
+      <itunes:summary><![CDATA[יונתן פותח קליניקה ומאמין שהיכולת שלו תעזור לאנשים. אבל המטופלים לא משלמים, הכתבה בעיתון מרחיקה את מי שכן, והחובות סוגרים עליו. ואז נריה מתקשר: "אתה חייב לבוא."]]></itunes:summary>
+      <guid isPermaLink="false">0686e10a-5f78-49e9-94fc-421a826793b2</guid>
+      <pubDate>Wed, 18 Nov 2026 08:30:00 +0000</pubDate>
+      <enclosure url="https://yotam-levy.github.io/haparash-audio/episodes/haparash-ep02.mp3" length="20621473" type="audio/mpeg"/>
+      <itunes:duration>00:14:19</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>פרק 1: השער</title>
+      <description><![CDATA[יונתן בן 12, ילד שרואה מה עובר על אנשים לפני שהם מספרים. מגרש הכדורגל, החבר הכי טוב נריה, והיום שבו אבא של נריה מפוטר. משפט אחד של אבא שלו ילך איתו שנים: "רק שלא תסבך אותך."]]></description>
+      <itunes:summary><![CDATA[יונתן בן 12, ילד שרואה מה עובר על אנשים לפני שהם מספרים. מגרש הכדורגל, החבר הכי טוב נריה, והיום שבו אבא של נריה מפוטר. משפט אחד של אבא שלו ילך איתו שנים: "רק שלא תסבך אותך."]]></itunes:summary>
+      <guid isPermaLink="false">1d4dfd3b-7dcb-400f-a4a9-162318b9a7f5</guid>
+      <pubDate>Wed, 18 Nov 2026 08:27:19 +0000</pubDate>
+      <enclosure url="https://yotam-levy.github.io/haparash-audio/episodes/haparash-ep01.mp3" length="21141206" type="audio/mpeg"/>
+      <itunes:duration>00:14:41</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
