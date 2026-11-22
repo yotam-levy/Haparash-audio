@@ -2,7 +2,9 @@
 """Builds feed.xml for the HaParash podcast from episodes.json.
 
 Each episode in episodes.json needs: n, title, guid, date (ISO, UTC), description,
-and an mp3 at episodes/haparash-epNN.mp3. Only episodes listed in episodes.json
+and an mp3 at episodes/haparash-epNN.mp3. An optional "file" names a different
+mp3 in episodes/ (used when an episode's audio is replaced, so the URL changes
+and Spotify fetches the new audio; the guid stays the same). Only episodes listed in episodes.json
 appear in the feed, so adding an entry there is what publishes an episode.
 """
 import json, os, subprocess, sys
@@ -40,7 +42,8 @@ def main():
     eps.sort(key=lambda e: e["date"], reverse=True)
     items = []
     for e in eps:
-        rel = f"episodes/haparash-ep{e['n']:02d}.mp3"
+        fname = e.get("file") or f"haparash-ep{e['n']:02d}.mp3"
+        rel = f"episodes/{fname}"
         path = os.path.join(ROOT, rel)
         if not os.path.exists(path):
             sys.exit(f"missing {rel}")
